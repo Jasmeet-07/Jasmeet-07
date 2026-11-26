@@ -1,18 +1,38 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Jasmeet%20Singh&fontSize=72&fontColor=00f7ff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20%7C%203D%20Web%20%7C%20Security%20Enthusiast&descAlignY=58&descSize=20&descColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=Jasmeet%20Singh&fontSize=74&fontColor=00f7ff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20%7C%203D%20Web%20%7C%20Security%20Enthusiast&descAlignY=58&descSize=20&descColor=ffffff" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=00F7FF&background=00000000&center=true&vCenter=true&width=700&height=60&lines=%F0%9F%91%8B+Hey%2C+I'm+Jasmeet+Singh;%F0%9F%8E%93+CSE+Student+%40+Chandigarh+University;%F0%9F%A7%8A+Building+3D+web+experiences;%F0%9F%94%90+Exploring+Wi-Fi+and+Cyber+Security;%F0%9F%9A%80+Dream+Big.+Build+Bigger." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=00F7FF&background=00000000&center=true&vCenter=true&width=720&height=60&lines=%F0%9F%91%8B+Hey%2C+I'm+Jasmeet+Singh;%F0%9F%8E%93+CSE+Student+%40+Chandigarh+University;%F0%9F%A7%8A+Building+3D+web+experiences;%F0%9F%94%90+Exploring+Wi-Fi+and+Cyber+Security;%F0%9F%9A%80+Dream+Big.+Build+Bigger.+Keep+Growing." alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Jasmeet-07&label=PROFILE%20VIEWS&color=7b2ff7&style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/Jasmeet-07?style=for-the-badge&logo=github&color=00b4d8&labelColor=0f0c29)
-![Repos](https://img.shields.io/badge/PUBLIC%20REPOS-3-ff4d8d?style=for-the-badge&logo=github&labelColor=0f0c29)
+![Status](https://img.shields.io/badge/STATUS-OPEN%20TO%20LEARN%20%26%20BUILD-00f7ff?style=for-the-badge&labelColor=0f0c29)
+![Location](https://img.shields.io/badge/CHANDIGARH-INDIA-ff4d8d?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0f0c29)
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 💻 whoami
+
+```bash
+$ whoami
+jasmeet-singh
+
+$ cat about.txt
+CSE student at Chandigarh University who loves turning ideas into
+interactive web experiences, from clean React UIs to 3D scenes.
+
+$ ls skills/
+react/  threejs/  javascript/  java/  python/  c-cpp/  mysql/  security/
+
+$ echo $MOTTO
+Dream Big. Build Bigger. Keep Growing. 🚀
+```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -44,7 +64,8 @@ const jasmeet = {
 - 🌱 Learning **React, Three.js, DSA**
 - 🔐 Exploring **WPA2 vs WPA3**
 - 🏨 Built **Hostel Management**
-- 📫 Mail me: **jasmeetsingh1514@gmail.com**
+- 🎯 Aiming for **Full Stack roles**
+- 📫 **jasmeetsingh1514@gmail.com**
 
 </td>
 </tr>
@@ -65,6 +86,7 @@ const jasmeet = {
 ![Tailwind](https://img.shields.io/badge/Tailwind-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=38bdf8)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![EmailJS](https://img.shields.io/badge/EmailJS-F7931E?style=for-the-badge&logo=maildotru&logoColor=white)
 
 </div>
 
@@ -82,6 +104,15 @@ const jasmeet = {
 | 🔐 **Cyber Security** | ![Sec](https://img.shields.io/badge/-████░░░░░░_40%25-00f7ff?style=flat-square&labelColor=0f0c29) |
 
 </div>
+
+## ✅ Goals
+
+- [x] Build my first GitHub profile README
+- [x] Set up a 3D contribution skyline and snake animation
+- [ ] Finish and publish my **3D portfolio** 🧊
+- [ ] Solve 200+ DSA problems 🧠
+- [ ] Build a full stack project with login and database 🗄️
+- [ ] Contribute to an open source project 🌍
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -159,6 +190,30 @@ const jasmeet = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+## 🤝 Open To
+
+<div align="center">
+
+| 🧑‍💻 Collaboration | 🎓 Internships | 🌍 Open Source | 💬 Tech Talks |
+| :---: | :---: | :---: | :---: |
+| Web & 3D projects | Frontend / Full Stack | Beginner friendly repos | React, Three.js, Security |
+
+</div>
+
+<details>
+<summary><b>💡 Fun facts about me (click to open)</b></summary>
+
+<br/>
+
+- ☕ Coffee is my debugging partner
+- 🧊 I love making websites feel alive with 3D
+- 🔐 I get curious about how Wi-Fi security actually works
+- 🎮 I enjoy building things more than reading about them
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## 🌐 Let's Connect
 
 <div align="center">
@@ -171,11 +226,11 @@ const jasmeet = {
   <img src="https://skillicons.dev/icons?i=github&theme=dark" width="64" />
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/your-linkedin-id" title="LinkedIn">
+<a href="https://www.linkedin.com/in/jasmeet-singh-142748326" title="LinkedIn">
   <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="64" />
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/your-instagram-id" title="Instagram">
+<a href="https://www.instagram.com/jasmeet.__01/" title="Instagram">
   <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="64" />
 </a>
 
@@ -189,6 +244,8 @@ const jasmeet = {
 
 **Thanks for visiting my profile! ⭐**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer" width="100%" />
+*If you liked it, drop a follow or a star on my repos.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer" width="100%" />
 
 </div>
