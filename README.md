@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Jasmeet%20Singh&fontSize=70&fontColor=00f7ff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20%7C%203D%20Web%20%7C%20Security%20Enthusiast&descAlignY=62&descSize=20&descColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Jasmeet%20Singh&fontSize=72&fontColor=00f7ff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20%7C%203D%20Web%20%7C%20Security%20Enthusiast&descAlignY=58&descSize=20&descColor=ffffff" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=00F7FF&background=00000000&center=true&vCenter=true&width=700&height=60&lines=%F0%9F%91%8B+Hey%2C+I'm+Jasmeet+Singh;%F0%9F%8E%93+CSE+Student+%40+Chandigarh+University;%F0%9F%A7%8A+Building+3D+web+experiences;%F0%9F%94%90+Exploring+Wi-Fi+and+Cyber+Security;%F0%9F%9A%80+Dream+Big.+Build+Bigger." alt="Typing SVG" />
@@ -9,8 +9,8 @@
 <br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Jasmeet-07&label=PROFILE%20VIEWS&color=7b2ff7&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/Jasmeet-07?style=for-the-badge&logo=github&color=302b63&labelColor=0f0c29)
 ![Stars](https://img.shields.io/github/stars/Jasmeet-07?style=for-the-badge&logo=github&color=00b4d8&labelColor=0f0c29)
+![Repos](https://img.shields.io/badge/PUBLIC%20REPOS-3-ff4d8d?style=for-the-badge&logo=github&labelColor=0f0c29)
 
 </div>
 
@@ -20,7 +20,7 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="58%" valign="top">
 
 ```js
 const jasmeet = {
@@ -36,7 +36,7 @@ const jasmeet = {
 ```
 
 </td>
-<td width="40%" valign="top">
+<td width="42%" valign="top">
 
 ### ⚡ Quick Facts
 
@@ -44,7 +44,7 @@ const jasmeet = {
 - 🌱 Learning **React, Three.js, DSA**
 - 🔐 Exploring **WPA2 vs WPA3**
 - 🏨 Built **Hostel Management**
-- 📫 **jasmeetsingh1514@gmail.com**
+- 📫 Mail me: **jasmeetsingh1514@gmail.com**
 
 </td>
 </tr>
@@ -70,6 +70,21 @@ const jasmeet = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+## 🎯 Currently Leveling Up
+
+<div align="center">
+
+| Skill | Progress |
+| :---- | :------- |
+| ⚛️ **React** | ![React](https://img.shields.io/badge/-████████░░_80%25-61DAFB?style=flat-square&labelColor=0f0c29) |
+| 🧊 **Three.js** | ![Three](https://img.shields.io/badge/-█████░░░░░_50%25-7b2ff7?style=flat-square&labelColor=0f0c29) |
+| 🧠 **DSA** | ![DSA](https://img.shields.io/badge/-██████░░░░_60%25-ff4d8d?style=flat-square&labelColor=0f0c29) |
+| 🔐 **Cyber Security** | ![Sec](https://img.shields.io/badge/-████░░░░░░_40%25-00f7ff?style=flat-square&labelColor=0f0c29) |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## 🧊 3D Contribution Skyline
 
 <div align="center">
@@ -79,10 +94,6 @@ const jasmeet = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jasmeet-07/Jasmeet-07/main/profile-3d-contrib/profile-green-animate.svg" />
   <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/Jasmeet-07/Jasmeet-07/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </picture>
-
-<br/>
-
-[![3D Graph Workflow](https://github.com/Jasmeet-07/Jasmeet-07/actions/workflows/profile-3d.yml/badge.svg)](https://github.com/Jasmeet-07/Jasmeet-07/actions/workflows/profile-3d.yml)
 
 </div>
 
@@ -96,54 +107,32 @@ const jasmeet = {
   <img alt="Snake animation" src="https://raw.githubusercontent.com/Jasmeet-07/Jasmeet-07/output/github-snake-dark.svg" width="100%" />
 </picture>
 
-<br/>
-
-[![Snake Workflow](https://github.com/Jasmeet-07/Jasmeet-07/actions/workflows/snake.yml/badge.svg)](https://github.com/Jasmeet-07/Jasmeet-07/actions/workflows/snake.yml)
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 🏨 Hostel Management
-Manage hostel students, rooms and records efficiently.
+<a href="https://github.com/Jasmeet-07/Hostel-Management">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jasmeet-07&repo=Hostel-Management&theme=radical&hide_border=true&bg_color=0f0c29" />
+</a>
+<a href="https://github.com/Jasmeet-07/WPA2-vs-WPA3-repo-starter">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jasmeet-07&repo=WPA2-vs-WPA3-repo-starter&theme=radical&hide_border=true&bg_color=0f0c29" />
+</a>
 
-[![Repo](https://img.shields.io/badge/View_Repo-7b2ff7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jasmeet-07/Hostel-Management)
+<a href="https://github.com/Jasmeet-07/GitHub-page">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jasmeet-07&repo=GitHub-page&theme=radical&hide_border=true&bg_color=0f0c29" />
+</a>
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
-### 🔐 WPA2 vs WPA3
-Wi-Fi security comparison starter with batch scripts.
+### 🧊 3D Portfolio &nbsp;![Status](https://img.shields.io/badge/Status-In_Progress-ff9f1c?style=for-the-badge)
 
-[![Repo](https://img.shields.io/badge/View_Repo-7b2ff7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jasmeet-07/WPA2-vs-WPA3-repo-starter)
+*Interactive 3D portfolio built with React, Three.js and Tailwind CSS.*
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 GitHub Page
-My personal web page hosted on GitHub Pages.
-
-[![Repo](https://img.shields.io/badge/View_Repo-7b2ff7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jasmeet-07/GitHub-page)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧊 3D Portfolio
-Interactive 3D portfolio with React, Three.js and Tailwind.
-
-![Status](https://img.shields.io/badge/Status-In_Progress-ff9f1c?style=for-the-badge)
-
-</td>
-</tr>
-</table>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -168,26 +157,33 @@ Interactive 3D portfolio with React, Three.js and Tailwind.
 
 </div>
 
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Jasmeet-07&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
-
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🌐 Let's Connect
 
 <div align="center">
 
-<a href="mailto:jasmeetsingh1514@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/Jasmeet-07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/your-linkedin-id"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/your-instagram-id"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="mailto:jasmeetsingh1514@gmail.com" title="Gmail">
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="64" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Jasmeet-07" title="GitHub">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="64" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/your-linkedin-id" title="LinkedIn">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="64" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/your-instagram-id" title="Instagram">
+  <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="64" />
+</a>
 
 <br/><br/>
+
+**Gmail** &nbsp;·&nbsp; **GitHub** &nbsp;·&nbsp; **LinkedIn** &nbsp;·&nbsp; **Instagram**
+
+<br/>
 
 ### 💭 "Dream Big. Build Bigger. Keep Growing."
 
